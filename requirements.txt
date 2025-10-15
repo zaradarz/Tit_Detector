@@ -1,0 +1,8 @@
+torch>=2.0.0
+torchvision>=0.15.0
+Pillow>=9.0.0
+requests>=2.25.0
+tqdm>=4.60.0
+matplotlib>=3.5.0
+numpy>=1.21.0
+duckduckgo-search>=3.0.0
