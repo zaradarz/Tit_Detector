@@ -1,10 +1,13 @@
 # Tit Detector 🐦
 
 A simple machine learning project that uses a Convolutional Neural Network (CNN) to detect tit birds in images. This project includes tools for dataset creation, model training, and inference.
-This project is for educational purposes and accompanies a tutorial on YouTube.
-[![Watch the video](https://img.youtube.com/vi/nS8fRwTkC_0/0.jpg)](https://www.youtube.com/watch?v=nS8fRwTkC_0)
-
-
+This project is for educational purposes and accompanies a tutorial on YouTube.<p align="center">
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=nS8fRwTkC_0" target="_blank">
+    <img src="https://img.youtube.com/vi/nS8fRwTkC_0/0.jpg" width="480" alt="Watch the video">
+  </a><br>
+  <b>▶️ Click to watch on YouTube</b>
+</p>
 
 ![Tit Detector Demo](Readme_animated.gif)
 
